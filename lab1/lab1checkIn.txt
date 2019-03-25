@@ -1,0 +1,11 @@
+1. 
+LED: 2.72V
+resistor 2.27V
+current flows through LED: 1.19824
+
+2. 
+the LED is brighter with a 1K resistor than 10K resistor 
+
+3. 
+14*4 = 56
+	
